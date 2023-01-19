@@ -1,0 +1,1 @@
+# Diabetes-data-Prediction-Project-based-on-Different-Classification-Supervised-ML-model
